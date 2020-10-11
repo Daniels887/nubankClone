@@ -1,4 +1,5 @@
 <h3 align="center">Nubank Clone</h3>
+<br>
 <p align="center"><samp>A clone of Nubank using React Native</samp></p>
 <br>
 
